@@ -1,0 +1,17 @@
+.yt-svg-icon:hover path.ytp-large-play-button-bg{
+    fill: #f00;
+    cursor:pointer;
+}
+.thumb-container, .thumb{
+    width: 100%;
+}
+.col-md-3{
+    margin: 1.5% 0;
+}
+.title-container{
+    width:100%; 
+    display:flex; 
+    flex-wrap:wrap; 
+    height:auto; 
+    overflow-x:auto;
+}
